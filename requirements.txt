@@ -1,0 +1,10 @@
+torch>=2.0
+torchvision
+einops
+matplotlib
+opencv-python
+pillow
+torchsummary
+scikit-learn
+tqdm
+pandas
